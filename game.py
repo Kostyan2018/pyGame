@@ -40,6 +40,3 @@ else:
 
 # print random variant
 print(f"The choice of the game was : {randomChoice}")
-
-
-
